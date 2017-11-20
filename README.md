@@ -2,7 +2,7 @@
 
 This is a sample project, showing how to build the popular who's typing feature of chat apps using .NET and Pusher.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_E58012E74D3E5C5A609AA9D1CE0902B3F4FDDCE3646A4AFF843D5AF24BB9E02C_1508188979554_heychat.gif)
+![](https://www.dropbox.com/s/82v1nv3zg3srtsz/Message-Delivery-Status-dotNET-2.gif?raw=1)
 
 ### How to set up project
 
